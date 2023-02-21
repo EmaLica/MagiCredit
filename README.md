@@ -1,3 +1,7 @@
 # MagiCredit
  Sito Web MagiCredit
-Puoi copiare e condividere questo programma ma non modificarlo
+ 
+ Questo sito web non è terminato. 
+ 
+ Offre una GUI con Login e Registrazione
+
